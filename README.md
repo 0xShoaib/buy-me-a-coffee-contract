@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+## Buy Shoaib a coffee ☕
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+NextJs Frontend Repository - https://github.com/0xShoaib/buy-me-a-coffee-frontend
 
-Try running some of the following tasks:
+Smart Contract Repository - https://github.com/0xShoaib/buy-me-a-coffee-contract
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Deployed Contract Address - 0xB829A8dde3fD6bBA665cF74Efdd4eD7667f57bf6
+
+Contract Details Goerli Etherscan - https://goerli.etherscan.io/address/0xB829A8dde3fD6bBA665cF74Efdd4eD7667f57bf6
+
+Project Live Demo - https://buy-shoaib-a-coffee.vercel.app/
